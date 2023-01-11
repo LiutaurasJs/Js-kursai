@@ -1,1 +1,1 @@
-# pamokos
+# JS-Kursai
